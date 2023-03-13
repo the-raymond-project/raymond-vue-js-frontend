@@ -32,7 +32,7 @@ function typeText(element, text) {
         } else {
             clearInterval(interval);
         }
-    }, 35)
+    }, 22)
 }
 
 // gives unique ID for 
